@@ -1,4 +1,4 @@
 # first-webpage
 this is my first repository 
 <br>
-<h1>Author-SarfarazKhan</h1>
+<h1>Author-sarfarazkhan</h1>
